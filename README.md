@@ -22,5 +22,5 @@ Verkefni - Okkar 9gag
                            <b><h1><p>Not Sure </p></h1></b>
 <image src="dirty.jpg" 
 </center>
-<footer>&copy ZombieApe.com 2015.</footer>
+<footer>ekki copyrighta síðuna júlli</footer>
 </html>
