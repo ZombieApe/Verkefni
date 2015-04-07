@@ -11,8 +11,8 @@ Verkefni - Okkar 9gag
                            <b><h1><p>Welcome to <br> ZombieApe.com </p></h1></b>
 
     <form action='login,php' method=''POST'>
-          Username:<input type='text' name='username'><br>
-          Password: <input type='password' name='password'><br>
+          <em>Username</em>:<input type='text' name='username'><br>
+          <em>Password</em>: <input type='password' name='password'><br>
          <input type='submit' value='Log in'>
      </form>	
 </html>	
