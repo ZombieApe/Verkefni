@@ -129,6 +129,6 @@ form {position: fixed}
 <b><p><b>  [LIKE] [DISSLIKE] </b> 
 </center>
 <div>
-<footer style= "position: relavant"><b> © ZombieApe.com 2015.</b></footer>
+<footer style= "position:absolute"><b> © ZombieApe.com 2015.</b></footer>
 </div>
 </html>
