@@ -8,7 +8,7 @@ Verkefni - Okkar 9gag
 </header>
 <center>
 <body background="white" text="black">
-                           <b><h1><p>Welcome to <br> ZombieApe.com </p></h1></b>
+                           <b><h1 style= "color: green"><p>Welcome to <br> ZombieApe.com </p></h1></b>
 
     <form action='login,php' method=''POST'>
           <em>Username</em>:<input type='text' name='username'><br>
