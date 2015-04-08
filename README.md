@@ -7,6 +7,10 @@ Verkefni - Okkar 9gag
 <title>ZombieApe.com</title>
 </header>
 <center>
+<style>
+form {float: left}
+form {position: fixed}
+</style>
 <body background="white" text="black">
 <div style= "background-color: #CCFFFF">
                            <b><h1 style= "color: green"><p>Welcome to <br> ZombieApe.com </p></h1></b>
