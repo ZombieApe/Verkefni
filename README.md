@@ -8,6 +8,7 @@ Verkefni - Okkar 9gag
 </header>
 <center>
 <body background="white" text="black">
+<div style= "background-color: #CCFFFF">
                            <b><h1 style= "color: green"><p>Welcome to <br> ZombieApe.com </p></h1></b>
 
     <form action='login,php' method=''POST'>
@@ -15,6 +16,7 @@ Verkefni - Okkar 9gag
           <em>Password</em>: <input type='password' name='password'><br>
          <input type='submit' value='Log in'>
      </form>	
+</div>
 </html>	
 		
 <b><h1><p>------------------------------------------------------------------ </p></h1>
