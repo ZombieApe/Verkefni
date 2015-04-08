@@ -128,5 +128,5 @@ form {position: fixed}
 <image src="lick.gif"
 <b><p><b>  [LIKE] [DISSLIKE] </b> 
 </center>
-<footer>&copy ZombieApe.com 2015.</footer>
+<footer> © ZombieApe.com 2015.</footer>
 </html>
