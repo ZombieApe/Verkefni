@@ -11,19 +11,18 @@ Verkefni - Okkar 9gag
 form {float: left}
 form {position: fixed}
 </style>
-<body background="white" text="black">
-<div style= "background-color: #CCFFFF">
-                           <b><h1 style= "color: green"><p>Welcome to <br> ZombieApe.com </p></h1></b>
+<body background="white" text="">
+<div style= "background-color: #000000">
+                           <b><h1 style= "color: #00CC00"><p>Welcome to <br> ZombieApe.com </p></h1></b>
 
     <form action='login,php' method=''POST'>
-          <em>Username</em>:<input type='text' name='username'><br>
-          <em>Password</em>: <input type='password' name='password'><br>
+          <em><b>Username</b></em>: <input type='text' name='username'><br>
+          <em><b>Password </b></em>: <input type='password' name='password'><br>
          <input type='submit' value='Log in'>
-     </form>	
+     </form>
 </div>
 </html>	
 		
-<b><h1><p>------------------------------------------------------------------ </p></h1>
                            <b><h1><p>Facts</p></h1></b>
 <image src="nick.jpg"
 <b><p><b>  [LIKE] [DISLIKE] </b> 	
