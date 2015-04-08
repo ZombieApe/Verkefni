@@ -132,3 +132,11 @@ form {position: fixed}
 <footer style= "position:absolute"><b> © ZombieApe.com 2015.</b></footer>
 </div>
 </html>
+
+
+
+
+
+
+//© ZombieApe.com 2015.
+//rape erik
