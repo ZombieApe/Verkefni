@@ -1,7 +1,3 @@
-# Verkefni
-Verkefni - Okkar 9gag
-
-
 <html>
 <header>
 <title>ZombieApe.com</title>
